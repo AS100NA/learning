@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'ALKBasri-Light';
+    src: url('../css/fonts/alk/alkbasri-light-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../css/fonts/alk/alkbasri-light-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../css/fonts/alk/alkbasri-light-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../css/fonts/alk/alkbasri-light-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../css/fonts/alk/alkbasri-light-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../css/fonts/alk/alkbasri-light-webfont.svg#alkbasri-lightregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Akronim';
+    src: url('../css/fonts/ark/Akronim-Regular.eot');
+    src: url('../css/fonts/ark/Akronim-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../css/fonts/ark/Akronim-Regular.woff2') format('woff2'),
+        url('../css/fonts/ark/Akronim-Regular.woff') format('woff'),
+        url('../css/fonts/ark/Akronim-Regular.svg#Akronim-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
